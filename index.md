@@ -1,5 +1,5 @@
 ---
-title: Portfolio!
+title:BBlogs!
 ---
-subtitle: Test Portfolio Page 
+Reflections and Studies  
 ---
