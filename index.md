@@ -1,5 +1,5 @@
 ---
-title:BBlogs!
+title: BBlogs!
 ---
 Reflections and Studies  
 ---
